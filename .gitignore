@@ -1,0 +1,9 @@
+*.asv
+*.m~
+*.mlx.autosave
+*.slx.autosave
+*.mdl.autosave
+slprj/
+*.slxc
+*.log
+*.tmp
